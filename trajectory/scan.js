@@ -1,2 +1,1 @@
-
-# Use the correct formula
+// Use the correct formula
