@@ -1,2 +1,2 @@
 # Star Destroyer
-Improve the Star Destroyer: Imperial II Class
+Improvement on the Star Destroyer: Imperial II Class
